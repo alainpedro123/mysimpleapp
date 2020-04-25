@@ -1,0 +1,2 @@
+.container{margin-top:30px;margin-bottom:30px;text-align:center}.text{font-family:Times New Roman,Times,serif;color:brown}.current-time{font-family:monospace;font-size:65px;line-height:3.3;width:242px;height:226px;border:1px solid;border-radius:150px;margin:40px auto}.btn{margin-right:10px}.timer-controller{display:flex;padding:10px;justify-content:center}@media (max-width:800px){.lap-reset,.start-stop{display:flex;flex-direction:column}.btn-info,.btn-success{margin-bottom:10px}}
+/*# sourceMappingURL=main.269cb67f.chunk.css.map */

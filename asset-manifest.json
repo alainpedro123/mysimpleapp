@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mysimpleapp/static/css/main.269cb67f.chunk.css",
+    "main.js": "/mysimpleapp/static/js/main.52711329.chunk.js",
+    "main.js.map": "/mysimpleapp/static/js/main.52711329.chunk.js.map",
+    "runtime-main.js": "/mysimpleapp/static/js/runtime-main.7cc5df3e.js",
+    "runtime-main.js.map": "/mysimpleapp/static/js/runtime-main.7cc5df3e.js.map",
+    "static/css/2.64a99b10.chunk.css": "/mysimpleapp/static/css/2.64a99b10.chunk.css",
+    "static/js/2.fb831faf.chunk.js": "/mysimpleapp/static/js/2.fb831faf.chunk.js",
+    "static/js/2.fb831faf.chunk.js.map": "/mysimpleapp/static/js/2.fb831faf.chunk.js.map",
+    "index.html": "/mysimpleapp/index.html",
+    "precache-manifest.3487405be0f37ceae1744c43c385321b.js": "/mysimpleapp/precache-manifest.3487405be0f37ceae1744c43c385321b.js",
+    "service-worker.js": "/mysimpleapp/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/mysimpleapp/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.269cb67f.chunk.css.map": "/mysimpleapp/static/css/main.269cb67f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cc5df3e.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.fb831faf.chunk.js",
+    "static/css/main.269cb67f.chunk.css",
+    "static/js/main.52711329.chunk.js"
+  ]
+}
